@@ -314,6 +314,12 @@ Tenda最新：https://github.com/yaoyue123/iot/blob/main/Tenda/A15/WifExtraSet.m
 
 ![image-20240119012918722](https://githubwiki.oss-cn-shanghai.aliyuncs.com/img/typroa/image-20240119012918722.png)
 
+
+
+安全信息github：https://github.com/Tyaoo/IoT-Vuls/blob/main/dlink/DIR-846/vul.md
+
+
+
 ## NR 1800X V9.1.0u.6279_B20210910
 
 可模拟的版本：
